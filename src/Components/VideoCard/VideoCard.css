@@ -1,0 +1,14 @@
+.videoCard{
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: center;
+    border : 1px solid black;
+    position: relative;
+    background-color : transparent;
+}
+
+.videoCard__player{
+    object-fit: fill;
+    width: 100%;
+    height: 100%;
+}
